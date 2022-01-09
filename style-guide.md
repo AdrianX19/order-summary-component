@@ -1,5 +1,5 @@
 # Front-end Style Guide
-TEST
+
 ## Layout
 
 The designs were created to the following widths:
