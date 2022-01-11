@@ -21,11 +21,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-Desktop:
 ![Final result on desktop](./final-result/desktop-final.PNG)
-
-Mobile:
-![Final result on mobile](./final-result/mobile-final.PNG)
 
 ### Links
 
