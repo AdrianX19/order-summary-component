@@ -22,10 +22,10 @@ Users should be able to:
 
 ### Screenshot
 Desktop:
-![Final result on desktop](./final-result/desktop-final.png)
+![Final result on desktop](./final-result/desktop-final.PNG)
 
 Mobile:
-![Final result on mobile](./final-result/mobile-final.png)
+![Final result on mobile](./final-result/mobile-final.PNG)
 
 ### Links
 
